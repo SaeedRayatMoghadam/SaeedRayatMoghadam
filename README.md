@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything !**
 
-- 📫 How to reach me **SaeedRayatMoghadam@Gmail.Com**
+- 📫 How to reach me **S.RayatMoghadam@Gmail.Com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
