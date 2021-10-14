@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Saeed RayatMoghadam</h1>
+<h1 align="center">Heyyy 👋, I'm Saeed RayatMoghadam</h1>
 <h3 align="center">Junior FullStack Developer</h3>
 
 - 🌱 I’m currently learning **Asp.Net Core , React**
 
-- 💬 Ask me about **Asp.Net Core , React , JS , Frontend**
+- 💬 Ask me about **Anything !**
 
-- 📫 How to reach me **S.RayatMoghadam@Gmail.Com**
+- 📫 How to reach me **SaeedRayatMoghadam@Gmail.Com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
